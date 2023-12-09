@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 📫 How to reach me **shehabhossen76.services@gmail.com**
+- 📫 How to reach me **shehubhossen@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eKFTXolKYWvxINYJ0EYlORbPssri-5iJ/view?usp=sharing](https://drive.google.com/file/d/1eKFTXolKYWvxINYJ0EYlORbPssri-5iJ/view?usp=sharing)
 
