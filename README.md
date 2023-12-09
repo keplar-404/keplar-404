@@ -10,15 +10,14 @@
 
 - 📫 How to reach me **shehubhossen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eKFTXolKYWvxINYJ0EYlORbPssri-5iJ/view?usp=sharing](https://drive.google.com/file/d/1eKFTXolKYWvxINYJ0EYlORbPssri-5iJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1eKFTXolKYWvxINYJ0EYlORbPssri-5iJ/view?usp=sharing](https://drive.google.com/file/d/12d7WjWeJP8zGDzm4foW9fYWf1PyuxQxv/view?usp=sharing)
 
 - ⚡ Fun fact **AI is going to replace human world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/shehub101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shehub101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shehab-hossen-9460a9223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hossen-9460a9223/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100092283588986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100092283588986" height="30" width="40" /></a>
+<a href="https://twitter.com/shehub101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/shehub101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shehub-hossen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shehab-hossen-9460a9223/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
