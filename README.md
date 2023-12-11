@@ -4,8 +4,6 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gif">
 
-[![](https://visitcount.itsvg.in/api?id=keplar-404&icon=5&color=12)](https://visitcount.itsvg.in)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keplar-404&label=Profile%20views&color=0e75b6&style=flat" alt="keplar-404" /> </p>
 
 - 🌱 I’m currently learning **New technology**
