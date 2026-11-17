@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="480" font-family="Consolas,monospace" font-size="16">
-<style>text,tspan{white-space:pre}</style><rect width="985" height="480" fill="#161b22" rx="15"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="990" height="480" font-family="Consolas,monospace" font-size="16">
+<style>text,tspan{white-space:pre}</style><rect width="990" height="480" fill="#161b22" rx="15"/>
 <text fill="#8b949e">
-<tspan x="25" y="30">115</tspan>
 <tspan x="25" y="50">         ......::::... .:..::.............. </tspan>
 <tspan x="25" y="70">      .......:  ..=*+##*=#*=.:::::::........</tspan>
 <tspan x="25" y="90">    .......: -+%@@@@%%@@@%#@@#:::::::.......</tspan>
@@ -24,14 +23,14 @@
 <tspan x="25" y="430">.::: =###%#%%%%%@@%@@@%@@@@@@@@@@@-         </tspan>
 <tspan x="25" y="450">: :*#####%@@%#@%@@@@@@@@@@@@@@@@@*:         </tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">keplar-404 <tspan fill="#616e7f">----------------------------------------------------</tspan></text>
-<text x="390" y="50" fill="#c9d1d9"><tspan fill="#ffa657">OS</tspan>: <tspan fill="#616e7f">............................</tspan> <tspan fill="#a5d6ff">Arch Linux (Omarchy)</tspan></text>
-<text x="390" y="70" fill="#c9d1d9"><tspan fill="#ffa657">Editor</tspan>: <tspan fill="#616e7f">.........................</tspan> <tspan fill="#a5d6ff">VSCode, Claude Code</tspan></text>
-<text x="390" y="110" fill="#c9d1d9"><tspan fill="#ffa657">Focus.AI</tspan>: <tspan fill="#616e7f">.....................</tspan> <tspan fill="#a5d6ff">Agents, LLM apps, RAG</tspan></text>
-<text x="390" y="130" fill="#c9d1d9"><tspan fill="#ffa657">Focus.Web</tspan>: <tspan fill="#616e7f">...............</tspan> <tspan fill="#a5d6ff">Shopify apps, SaaS tooling</tspan></text>
-<text x="390" y="150" fill="#c9d1d9"><tspan fill="#ffa657">Focus.Cloud</tspan>: <tspan fill="#616e7f">....................</tspan> <tspan fill="#a5d6ff">ML model deployment</tspan></text>
-<text x="390" y="190" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Programming</tspan>: <tspan fill="#616e7f">...........</tspan> <tspan fill="#a5d6ff">TypeScript, Python</tspan></text>
-<text x="390" y="210" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Markup</tspan>: <tspan fill="#616e7f">.............</tspan> <tspan fill="#a5d6ff">HTML, CSS, JSON, YAML</tspan></text>
-<text x="390" y="230" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Real</tspan>: <tspan fill="#616e7f">.............................</tspan> <tspan fill="#a5d6ff">English</tspan></text>
-<text x="390" y="270" fill="#c9d1d9"><tspan fill="#ffa657">Contact.GitHub</tspan>: <tspan fill="#616e7f">..........................</tspan> <tspan fill="#a5d6ff">keplar-404</tspan></text>
+<text x="480" y="30" fill="#c9d1d9">keplar-404 <tspan fill="#616e7f">----------------------------------</tspan></text>
+<text x="480" y="50" fill="#c9d1d9"><tspan fill="#ffa657">OS</tspan>: <tspan fill="#616e7f">......................</tspan> <tspan fill="#a5d6ff">Arch Linux (Omarchy)</tspan></text>
+<text x="480" y="70" fill="#c9d1d9"><tspan fill="#ffa657">Editor</tspan>: <tspan fill="#616e7f">...................</tspan> <tspan fill="#a5d6ff">VSCode, Claude Code</tspan></text>
+<text x="480" y="110" fill="#c9d1d9"><tspan fill="#ffa657">Focus.AI</tspan>: <tspan fill="#616e7f">...............</tspan> <tspan fill="#a5d6ff">Agents, LLM apps, RAG</tspan></text>
+<text x="480" y="130" fill="#c9d1d9"><tspan fill="#ffa657">Focus.Web</tspan>: <tspan fill="#616e7f">.........</tspan> <tspan fill="#a5d6ff">Shopify apps, SaaS tooling</tspan></text>
+<text x="480" y="150" fill="#c9d1d9"><tspan fill="#ffa657">Focus.Cloud</tspan>: <tspan fill="#616e7f">..............</tspan> <tspan fill="#a5d6ff">ML model deployment</tspan></text>
+<text x="480" y="190" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Programming</tspan>: <tspan fill="#616e7f">.....</tspan> <tspan fill="#a5d6ff">TypeScript, Python</tspan></text>
+<text x="480" y="210" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Markup</tspan>: <tspan fill="#616e7f">.......</tspan> <tspan fill="#a5d6ff">HTML, CSS, JSON, YAML</tspan></text>
+<text x="480" y="230" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Real</tspan>: <tspan fill="#616e7f">.......................</tspan> <tspan fill="#a5d6ff">English</tspan></text>
+<text x="480" y="270" fill="#c9d1d9"><tspan fill="#ffa657">Contact.GitHub</tspan>: <tspan fill="#616e7f">....................</tspan> <tspan fill="#a5d6ff">keplar-404</tspan></text>
 </svg>
