@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="360" font-family="Consolas,monospace" font-size="16">
+<style>text,tspan{white-space:pre}</style><rect width="985" height="360" fill="#161b22" rx="15"/>
+<text x="30" y="35" fill="#c9d1d9">shehub@keplar-404 <tspan fill="#616e7f">------------------------------------------------------------</tspan></text>
+<text x="30" y="60" fill="#c9d1d9"><tspan fill="#ffa657">OS</tspan>: <tspan fill="#616e7f">..............................</tspan> <tspan fill="#a5d6ff">Arch Linux (Omarchy)</tspan></text>
+<text x="30" y="80" fill="#c9d1d9"><tspan fill="#ffa657">Host</tspan>: <tspan fill="#616e7f">..........................</tspan> <tspan fill="#a5d6ff">YOUR_COMPANY_OR_SCHOOL</tspan></text>
+<text x="30" y="100" fill="#c9d1d9"><tspan fill="#ffa657">Role</tspan>: <tspan fill="#616e7f">.......................................</tspan> <tspan fill="#a5d6ff">YOUR_ROLE</tspan></text>
+<text x="30" y="120" fill="#c9d1d9"><tspan fill="#ffa657">IDE</tspan>: <tspan fill="#616e7f">...................................</tspan> <tspan fill="#a5d6ff">VSCode, Neovim</tspan></text>
+<text x="30" y="160" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Programming</tspan>: <tspan fill="#616e7f">.........</tspan> <tspan fill="#a5d6ff">TypeScript, Python, Go</tspan></text>
+<text x="30" y="180" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Markup</tspan>: <tspan fill="#616e7f">...............</tspan> <tspan fill="#a5d6ff">HTML, CSS, JSON, YAML</tspan></text>
+<text x="30" y="200" fill="#c9d1d9"><tspan fill="#ffa657">Languages.Real</tspan>: <tspan fill="#616e7f">...............................</tspan> <tspan fill="#a5d6ff">English</tspan></text>
+<text x="30" y="240" fill="#c9d1d9"><tspan fill="#ffa657">Hobbies.Software</tspan>: <tspan fill="#616e7f">..........................</tspan> <tspan fill="#a5d6ff">YOUR_HOBBY</tspan></text>
+<text x="30" y="260" fill="#c9d1d9"><tspan fill="#ffa657">Hobbies.Hardware</tspan>: <tspan fill="#616e7f">..........................</tspan> <tspan fill="#a5d6ff">YOUR_HOBBY</tspan></text>
+<text x="30" y="300" fill="#c9d1d9"><tspan fill="#ffa657">Contact.Email</tspan>: <tspan fill="#616e7f">.............................</tspan> <tspan fill="#a5d6ff">YOUR_EMAIL</tspan></text>
+<text x="30" y="320" fill="#c9d1d9"><tspan fill="#ffa657">Contact.LinkedIn</tspan>: <tspan fill="#616e7f">.........................</tspan> <tspan fill="#a5d6ff">YOUR_HANDLE</tspan></text>
+<text x="30" y="340" fill="#c9d1d9"><tspan fill="#ffa657">Contact.GitHub</tspan>: <tspan fill="#616e7f">.........................</tspan> <tspan fill="#a5d6ff">keplar-404</tspan></text>
+</svg>
