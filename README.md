@@ -73,7 +73,7 @@ Hi, I'm **shehub**, a full-stack developer who builds AI-powered products from t
 <img alt="Git" src="https://img.shields.io/badge/-Git-21262d?style=for-the-badge&logo=git&logoColor=F05032">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-21262d?style=for-the-badge&logo=github&logoColor=ffffff">
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-21262d?style=for-the-badge&logo=postman&logoColor=FF6C37">
-<img alt="Biome" src="https://img.shields.io/badge/-Biome-21262d?style=for-the-badge&logo=biome&logoColor=60A5FA">
+<img alt="pnpm" src="https://img.shields.io/badge/-pnpm-21262d?style=for-the-badge&logo=pnpm&logoColor=F69220">
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-21262d?style=for-the-badge&logo=eslint&logoColor=4B32C3">
 <img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-21262d?style=for-the-badge&logo=turborepo&logoColor=EF4444">
 <br><br>
