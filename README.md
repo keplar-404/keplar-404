@@ -7,28 +7,75 @@
 
 ### 👋 About
 
-Full-stack developer building AI agents, LLM-powered apps and cloud tooling. I work mostly in TypeScript and Python.
+Full-stack developer building AI agents, LLM-powered apps and developer tooling. I work mostly in TypeScript and Python, and I maintain [react-timeline-editor](https://github.com/keplar-404/react-timeline-editor).
 
 ### 🚀 Featured projects
 
-<a href="https://github.com/keplar-404/relie-deep-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keplar-404&repo=relie-deep-agent&hide_border=true" /></a>
-<a href="https://github.com/keplar-404/relie-ai-agent-for-your-shopify-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keplar-404&repo=relie-ai-agent-for-your-shopify-store&hide_border=true" /></a>
-<a href="https://github.com/keplar-404/ace-step1.5-for-cloud-deployment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keplar-404&repo=ace-step1.5-for-cloud-deployment&hide_border=true" /></a>
-<a href="https://github.com/keplar-404/screen-shot-to-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=keplar-404&repo=screen-shot-to-code&hide_border=true" /></a>
+<a href="https://github.com/keplar-404/relie-deep-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/relie-deep-agent_dark.svg"><img alt="relie-deep-agent" src="assets/relie-deep-agent_light.svg" width="410"></picture></a>
+<a href="https://github.com/keplar-404/relie-ai-agent-for-your-shopify-store"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/relie-ai-agent-for-your-shopify-store_dark.svg"><img alt="relie-ai-agent-for-your-shopify-store" src="assets/relie-ai-agent-for-your-shopify-store_light.svg" width="410"></picture></a>
+<a href="https://github.com/keplar-404/react-timeline-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/react-timeline-editor_dark.svg"><img alt="react-timeline-editor" src="assets/react-timeline-editor_light.svg" width="410"></picture></a>
+<a href="https://github.com/keplar-404/ace-step1.5-for-cloud-deployment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ace-step1.5-for-cloud-deployment_dark.svg"><img alt="ace-step1.5-for-cloud-deployment" src="assets/ace-step1.5-for-cloud-deployment_light.svg" width="410"></picture></a>
 
 ### 🛠️ Tech stack
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+<b>Languages</b><br>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-21262d?style=flat-square&logo=typescript&logoColor=3178C6">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-21262d?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img alt="Python" src="https://img.shields.io/badge/-Python-21262d?style=flat-square&logo=python&logoColor=3776AB">
+<br><br>
+<b>Frontend</b><br>
+<img alt="React" src="https://img.shields.io/badge/-React-21262d?style=flat-square&logo=react&logoColor=61DAFB">
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-21262d?style=flat-square&logo=nextdotjs&logoColor=ffffff">
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-21262d?style=flat-square&logo=vite&logoColor=646CFF">
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-21262d?style=flat-square&logo=tailwindcss&logoColor=06B6D4">
+<img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn%2Fui-21262d?style=flat-square&logo=shadcnui&logoColor=ffffff">
+<img alt="TanStack" src="https://img.shields.io/badge/-TanStack-21262d?style=flat-square&logo=reactquery&logoColor=FF4154">
+<img alt="Zustand" src="https://img.shields.io/badge/-Zustand-21262d?style=flat-square&logo=react&logoColor=ffffff">
+<br><br>
+<b>Backend</b><br>
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=5FA04E">
+<img alt="Bun" src="https://img.shields.io/badge/-Bun-21262d?style=flat-square&logo=bun&logoColor=FBF0DF">
+<img alt="Hono" src="https://img.shields.io/badge/-Hono-21262d?style=flat-square&logo=hono&logoColor=E36002">
+<img alt="Express" src="https://img.shields.io/badge/-Express-21262d?style=flat-square&logo=express&logoColor=ffffff">
+<img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-21262d?style=flat-square&logo=socketdotio&logoColor=ffffff">
+<img alt="Zod" src="https://img.shields.io/badge/-Zod-21262d?style=flat-square&logo=zod&logoColor=3E67B1">
+<br><br>
+<b>Database</b><br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img alt="Drizzle" src="https://img.shields.io/badge/-Drizzle-21262d?style=flat-square&logo=drizzle&logoColor=C5F74F">
+<img alt="Neon" src="https://img.shields.io/badge/-Neon-21262d?style=flat-square&logo=neon&logoColor=00E599">
+<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-21262d?style=flat-square&logo=supabase&logoColor=3FCF8E">
+<img alt="Redis" src="https://img.shields.io/badge/-Redis-21262d?style=flat-square&logo=redis&logoColor=FF4438">
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-21262d?style=flat-square&logo=firebase&logoColor=FFCA28">
+<br><br>
+<b>AI</b><br>
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-21262d?style=flat-square&logo=langchain&logoColor=ffffff">
+<img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-21262d?style=flat-square&logo=langchain&logoColor=ffffff">
+<img alt="Vercel AI SDK" src="https://img.shields.io/badge/-Vercel%20AI%20SDK-21262d?style=flat-square&logo=vercel&logoColor=ffffff">
+<img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-21262d?style=flat-square&logo=claude&logoColor=D97757">
+<br><br>
+<b>Platforms</b><br>
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-21262d?style=flat-square&logo=vercel&logoColor=ffffff">
+<img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-21262d?style=flat-square&logo=cloudflare&logoColor=F38020">
+<img alt="Clerk" src="https://img.shields.io/badge/-Clerk-21262d?style=flat-square&logo=clerk&logoColor=6C47FF">
+<br><br>
+<b>Tools</b><br>
+<img alt="Git" src="https://img.shields.io/badge/-Git-21262d?style=flat-square&logo=git&logoColor=F05032">
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-21262d?style=flat-square&logo=github&logoColor=ffffff">
+<img alt="Postman" src="https://img.shields.io/badge/-Postman-21262d?style=flat-square&logo=postman&logoColor=FF6C37">
+<img alt="Biome" src="https://img.shields.io/badge/-Biome-21262d?style=flat-square&logo=biome&logoColor=60A5FA">
+<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-21262d?style=flat-square&logo=eslint&logoColor=4B32C3">
+<img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-21262d?style=flat-square&logo=turborepo&logoColor=EF4444">
+<br><br>
+<b>Environment</b><br>
+<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-21262d?style=flat-square&logo=archlinux&logoColor=1793D1">
+<img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-21262d?style=flat-square&logo=hyprland&logoColor=00AAAE">
+<br><br>
 
 ### 📊 GitHub stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=keplar-404&show_icons=true&hide_border=true&bg_color=00000000" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keplar-404&layout=compact&hide_border=true&bg_color=00000000" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats_dark.svg"><img alt="GitHub stats" src="assets/stats_light.svg" ></picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=keplar-404&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=58a6ff" />
+### 📅 Contributions
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap_dark.svg"><img alt="Contribution heatmap" src="assets/heatmap_light.svg" ></picture>
