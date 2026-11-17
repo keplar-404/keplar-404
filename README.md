@@ -7,7 +7,16 @@
 
 ### 👋 About
 
-Full-stack developer building AI agents, LLM-powered apps and developer tooling. I work mostly in TypeScript and Python, and I maintain [react-timeline-editor](https://github.com/keplar-404/react-timeline-editor).
+Hi, I'm **shehub**, a full-stack developer who builds AI-powered products from the database to the UI. I like turning LLMs and agents into software people can actually use.
+
+- 🤖 **AI agents:** deep-research and tool-using agents with LangGraph, LangChain and sandboxed code execution
+- 🛒 **E-commerce:** AI tooling and backend APIs for Shopify stores
+- 🎵 **Audio and media:** a timeline editor library, a browser DAW and music-generation deployments
+- 📄 **Document AI:** PDF and text extraction pipelines
+- 🌐 **Full-stack apps:** Next.js and React frontends with Node, Bun, Hono and Express backends, typed end to end with TypeScript and Zod
+
+🔭 Currently building [react-timeline-editor](https://github.com/keplar-404/react-timeline-editor) and the relie agents.
+💬 Open to collaborating on AI, developer tooling and open source. Open an issue or a discussion on any of my repos.
 
 ### 🚀 Featured projects
 
