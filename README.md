@@ -23,10 +23,40 @@ I'm **shehub**, a full-stack developer who loves turning LLMs and agents into pr
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" height="28" align="center"> Featured projects
 
-- **[k4-bot](https://github.com/keplar-404/k4-bot)**: personal computer-use AI assistant. Chat with an agent that searches the web and works on your own cloud Linux desktop. Built with Next.js, Hono on Bun, eve and E2B. `TypeScript`
-- **[relie-deep-agent](https://github.com/keplar-404/relie-deep-agent)**: deep-agent platform with LangGraph, sandboxed code execution and a Next.js UI. `TypeScript`
-- **[react-timeline-editor](https://github.com/keplar-404/react-timeline-editor)**: React timeline editor library and engine, published as @keplar-404 packages. `TypeScript`
-- **[ace-step1.5-for-cloud-deployment](https://github.com/keplar-404/ace-step1.5-for-cloud-deployment)**: the open-source ACE-Step music generation model, deployed to the cloud with ease. `Python`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/keplar-404/k4-bot">k4-bot</a></b><br>
+Personal computer-use AI assistant. Chat with an agent that searches the web and works on your own cloud Linux desktop.<br><br>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-21262d?style=flat-square"> <img alt="Hono" src="https://img.shields.io/badge/Hono-21262d?style=flat-square"> <img alt="Bun" src="https://img.shields.io/badge/Bun-21262d?style=flat-square"> <img alt="eve" src="https://img.shields.io/badge/eve-21262d?style=flat-square"> <img alt="E2B" src="https://img.shields.io/badge/E2B-21262d?style=flat-square">
+
+</td>
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/keplar-404/relie-deep-agent">relie-deep-agent</a></b><br>
+Deep-agent platform with LangGraph, sandboxed code execution and a polished Next.js UI.<br><br>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-21262d?style=flat-square"> <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-21262d?style=flat-square"> <img alt="Drizzle" src="https://img.shields.io/badge/Drizzle-21262d?style=flat-square"> <img alt="Daytona" src="https://img.shields.io/badge/Daytona-21262d?style=flat-square">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/keplar-404/react-timeline-editor">react-timeline-editor</a></b><br>
+React timeline editor library and engine, published as @keplar-404 packages.<br><br>
+<img alt="React" src="https://img.shields.io/badge/React-21262d?style=flat-square"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square"> <img alt="Fumadocs" src="https://img.shields.io/badge/Fumadocs-21262d?style=flat-square">
+
+</td>
+<td width="50%" valign="top">
+
+<b><a href="https://github.com/keplar-404/ace-step1.5-for-cloud-deployment">ace-step1.5-for-cloud-deployment</a></b><br>
+The open-source ACE-Step music generation model, deployed to the cloud with ease.<br><br>
+<img alt="Python" src="https://img.shields.io/badge/Python-21262d?style=flat-square"> <img alt="Cloud" src="https://img.shields.io/badge/Cloud-21262d?style=flat-square"> <img alt="Music AI" src="https://img.shields.io/badge/Music%20AI-21262d?style=flat-square">
+
+</td>
+</tr>
+</table>
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" height="28" align="center"> Tech stack
 
