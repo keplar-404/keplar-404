@@ -15,7 +15,7 @@ Hi, I'm **shehub**, a full-stack developer who builds AI-powered products from t
 - 📄 **Document AI:** PDF and text extraction pipelines
 - 🌐 **Full-stack apps:** Next.js and React frontends with Node, Bun, Hono and Express backends, typed end to end with TypeScript and Zod
 
-🔭 Currently building [react-timeline-editor](https://github.com/keplar-404/react-timeline-editor) and the relie agents.
+🔭 Currently building [k4-bot](https://github.com/keplar-404/k4-bot). Also maintaining [react-timeline-editor](https://github.com/keplar-404/react-timeline-editor).
 💬 Open to collaborating on AI, developer tooling and open source. Open an issue or a discussion on any of my repos.
 
 ### 🚀 Featured projects
@@ -62,6 +62,7 @@ Hi, I'm **shehub**, a full-stack developer who builds AI-powered products from t
 <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-21262d?style=for-the-badge&logo=langchain&logoColor=ffffff">
 <img alt="Vercel AI SDK" src="https://img.shields.io/badge/-Vercel%20AI%20SDK-21262d?style=for-the-badge&logo=vercel&logoColor=ffffff">
 <img alt="Command Code" src="https://img.shields.io/badge/-Command%20Code-21262d?style=for-the-badge&logoColor=white">
+<img alt="Vercel eve" src="https://img.shields.io/badge/-Vercel%20eve-21262d?style=for-the-badge&logo=vercel&logoColor=ffffff">
 <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-21262d?style=for-the-badge&logo=claude&logoColor=D97757">
 <br><br>
 <b>Platforms</b><br>
