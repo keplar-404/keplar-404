@@ -5,19 +5,9 @@
   </picture>
 </a>
 
-### 👋 About
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="28" height="28" align="center"> About
 
 I'm **shehub**, a full-stack developer who loves turning LLMs and agents into products people actually use. From the Postgres schema to the last pixel of the UI, I enjoy building the whole thing.
-
-```ts
-const shehub = {
-  building: "k4-bot",
-  maintaining: "react-timeline-editor",
-  stack: ["TypeScript", "Next.js", "Hono", "Drizzle", "LangGraph"],
-  workflow: "Omarchy + Hyprland + Claude Code",
-  lookingFor: "AI, dev tooling and open source collaborations",
-};
-```
 
 **What I build**
 
@@ -31,14 +21,14 @@ const shehub = {
 
 💬 Got an idea in AI, developer tooling or open source? Open an issue or a discussion on any of my repos, I'd love to hear it.
 
-### 🚀 Featured projects
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" height="28" align="center"> Featured projects
 
-<a href="https://github.com/keplar-404/relie-deep-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/relie-deep-agent_dark.svg"><img alt="relie-deep-agent" src="assets/relie-deep-agent_light.svg" width="410"></picture></a>
-<a href="https://github.com/keplar-404/relie-ai-agent-for-your-shopify-store"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/relie-ai-agent-for-your-shopify-store_dark.svg"><img alt="relie-ai-agent-for-your-shopify-store" src="assets/relie-ai-agent-for-your-shopify-store_light.svg" width="410"></picture></a>
-<a href="https://github.com/keplar-404/react-timeline-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/react-timeline-editor_dark.svg"><img alt="react-timeline-editor" src="assets/react-timeline-editor_light.svg" width="410"></picture></a>
-<a href="https://github.com/keplar-404/ace-step1.5-for-cloud-deployment"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ace-step1.5-for-cloud-deployment_dark.svg"><img alt="ace-step1.5-for-cloud-deployment" src="assets/ace-step1.5-for-cloud-deployment_light.svg" width="410"></picture></a>
+- **[relie-deep-agent](https://github.com/keplar-404/relie-deep-agent)**: deep-agent platform with LangGraph, sandboxed code execution and a Next.js UI. `TypeScript`
+- **[relie-ai-agent-for-your-shopify-store](https://github.com/keplar-404/relie-ai-agent-for-your-shopify-store)**: AI agent for Shopify merchants, built with Next.js, LangChain and Supabase. `TypeScript`
+- **[react-timeline-editor](https://github.com/keplar-404/react-timeline-editor)**: React timeline editor library and engine, published as @keplar-404 packages. `TypeScript`
+- **[ace-step1.5-for-cloud-deployment](https://github.com/keplar-404/ace-step1.5-for-cloud-deployment)**: the open-source ACE-Step music generation model, deployed to the cloud with ease. `Python`
 
-### 🛠️ Tech stack
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="28" height="28" align="center"> Tech stack
 
 <b>Languages</b><br>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=3178C6">
