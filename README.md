@@ -23,8 +23,8 @@ I'm **shehub**, a full-stack developer who loves turning LLMs and agents into pr
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="28" height="28" align="center"> Featured projects
 
+- **[k4-bot](https://github.com/keplar-404/k4-bot)**: personal computer-use AI assistant. Chat with an agent that searches the web and works on your own cloud Linux desktop. Built with Next.js, Hono on Bun, eve and E2B. `TypeScript`
 - **[relie-deep-agent](https://github.com/keplar-404/relie-deep-agent)**: deep-agent platform with LangGraph, sandboxed code execution and a Next.js UI. `TypeScript`
-- **[relie-ai-agent-for-your-shopify-store](https://github.com/keplar-404/relie-ai-agent-for-your-shopify-store)**: AI agent for Shopify merchants, built with Next.js, LangChain and Supabase. `TypeScript`
 - **[react-timeline-editor](https://github.com/keplar-404/react-timeline-editor)**: React timeline editor library and engine, published as @keplar-404 packages. `TypeScript`
 - **[ace-step1.5-for-cloud-deployment](https://github.com/keplar-404/ace-step1.5-for-cloud-deployment)**: the open-source ACE-Step music generation model, deployed to the cloud with ease. `Python`
 
