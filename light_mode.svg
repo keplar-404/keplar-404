@@ -1,16 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="985" height="360" font-family="Consolas,monospace" font-size="16">
-<style>text,tspan{white-space:pre}</style><rect width="985" height="360" fill="#f6f8fa" rx="15"/>
-<text x="30" y="35" fill="#24292f">shehub@keplar-404 <tspan fill="#c6cbd1">------------------------------------------------------------</tspan></text>
-<text x="30" y="60" fill="#24292f"><tspan fill="#953800">OS</tspan>: <tspan fill="#c6cbd1">..............................</tspan> <tspan fill="#0a3069">Arch Linux (Omarchy)</tspan></text>
-<text x="30" y="80" fill="#24292f"><tspan fill="#953800">Host</tspan>: <tspan fill="#c6cbd1">..........................</tspan> <tspan fill="#0a3069">YOUR_COMPANY_OR_SCHOOL</tspan></text>
-<text x="30" y="100" fill="#24292f"><tspan fill="#953800">Role</tspan>: <tspan fill="#c6cbd1">.......................................</tspan> <tspan fill="#0a3069">YOUR_ROLE</tspan></text>
-<text x="30" y="120" fill="#24292f"><tspan fill="#953800">IDE</tspan>: <tspan fill="#c6cbd1">...................................</tspan> <tspan fill="#0a3069">VSCode, Neovim</tspan></text>
-<text x="30" y="160" fill="#24292f"><tspan fill="#953800">Languages.Programming</tspan>: <tspan fill="#c6cbd1">.........</tspan> <tspan fill="#0a3069">TypeScript, Python, Go</tspan></text>
-<text x="30" y="180" fill="#24292f"><tspan fill="#953800">Languages.Markup</tspan>: <tspan fill="#c6cbd1">...............</tspan> <tspan fill="#0a3069">HTML, CSS, JSON, YAML</tspan></text>
-<text x="30" y="200" fill="#24292f"><tspan fill="#953800">Languages.Real</tspan>: <tspan fill="#c6cbd1">...............................</tspan> <tspan fill="#0a3069">English</tspan></text>
-<text x="30" y="240" fill="#24292f"><tspan fill="#953800">Hobbies.Software</tspan>: <tspan fill="#c6cbd1">..........................</tspan> <tspan fill="#0a3069">YOUR_HOBBY</tspan></text>
-<text x="30" y="260" fill="#24292f"><tspan fill="#953800">Hobbies.Hardware</tspan>: <tspan fill="#c6cbd1">..........................</tspan> <tspan fill="#0a3069">YOUR_HOBBY</tspan></text>
-<text x="30" y="300" fill="#24292f"><tspan fill="#953800">Contact.Email</tspan>: <tspan fill="#c6cbd1">.............................</tspan> <tspan fill="#0a3069">YOUR_EMAIL</tspan></text>
-<text x="30" y="320" fill="#24292f"><tspan fill="#953800">Contact.LinkedIn</tspan>: <tspan fill="#c6cbd1">.........................</tspan> <tspan fill="#0a3069">YOUR_HANDLE</tspan></text>
-<text x="30" y="340" fill="#24292f"><tspan fill="#953800">Contact.GitHub</tspan>: <tspan fill="#c6cbd1">.........................</tspan> <tspan fill="#0a3069">keplar-404</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="985" height="480" font-family="Consolas,monospace" font-size="16">
+<style>text,tspan{white-space:pre}</style><rect width="985" height="480" fill="#f6f8fa" rx="15"/>
+<text fill="#57606a">
+<tspan x="25" y="30">115</tspan>
+<tspan x="25" y="50">         ......::::... .:..::.............. </tspan>
+<tspan x="25" y="70">      .......:  ..=*+##*=#*=.:::::::........</tspan>
+<tspan x="25" y="90">    .......: -+%@@@@%%@@@%#@@#:::::::.......</tspan>
+<tspan x="25" y="110">  .......::.+@%@@%@@@@@@#*%@@@@+ ::::::..:..</tspan>
+<tspan x="25" y="130">.........:+@@@%@#+*%@#*#*##@@@@@%.::::::::..</tspan>
+<tspan x="25" y="150">.....:::::@@@@%*+%*+*-=+:#%@@@@@@=-.:::::::.</tspan>
+<tspan x="25" y="170">....:::::=@@%%*+:: -* :#+*%%@@@@@*-.-::::::.</tspan>
+<tspan x="25" y="190">..::::::--@##*+==@@@@@##-= .:=#@@+.::::::::.</tspan>
+<tspan x="25" y="210">.:::::::::*@@*=:@@@@#-.+=-::=#@@#:-:::::::..</tspan>
+<tspan x="25" y="230">.::::::::-.: +# :.::-.*#@-=@@@@@+-+.-:::::..</tspan>
+<tspan x="25" y="250">.:::::::::@@*#-*@@@*-+.: * #+@#%.: ::::::...</tspan>
+<tspan x="25" y="270">.:::::::-:#%%@..@@@@%#+==+@@****=.:::::::...</tspan>
+<tspan x="25" y="290">:::::::::::*@@-=-@@@@@@**@:-*@#%:-:::::.....</tspan>
+<tspan x="25" y="310">:::::::::::- . =:.+%@@@+: -+*@@@.-::::......</tspan>
+<tspan x="25" y="330">.:::::::::- @.@.#=. :@-#=  :+@@@.:::::......</tspan>
+<tspan x="25" y="350">:::::::::-:*%#---@@*= - *=.#@@@:-::::...... </tspan>
+<tspan x="25" y="370">.::::::::-+@@%@@+=%@@@@+..=%%@=:.::......   </tspan>
+<tspan x="25" y="390">.:::::---:%#%@%%@@#+#%@@@@@@@% ........     </tspan>
+<tspan x="25" y="410">...:--.:+###%%@@%@@@#*%@@@@@@@@#:....       </tspan>
+<tspan x="25" y="430">.::: =###%#%%%%%@@%@@@%@@@@@@@@@@@-         </tspan>
+<tspan x="25" y="450">: :*#####%@@%#@%@@@@@@@@@@@@@@@@@*:         </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">keplar-404 <tspan fill="#afb8c1">----------------------------------------------------</tspan></text>
+<text x="390" y="50" fill="#24292f"><tspan fill="#953800">OS</tspan>: <tspan fill="#afb8c1">............................</tspan> <tspan fill="#0a3069">Arch Linux (Omarchy)</tspan></text>
+<text x="390" y="70" fill="#24292f"><tspan fill="#953800">Editor</tspan>: <tspan fill="#afb8c1">.........................</tspan> <tspan fill="#0a3069">VSCode, Claude Code</tspan></text>
+<text x="390" y="110" fill="#24292f"><tspan fill="#953800">Focus.AI</tspan>: <tspan fill="#afb8c1">.....................</tspan> <tspan fill="#0a3069">Agents, LLM apps, RAG</tspan></text>
+<text x="390" y="130" fill="#24292f"><tspan fill="#953800">Focus.Web</tspan>: <tspan fill="#afb8c1">...............</tspan> <tspan fill="#0a3069">Shopify apps, SaaS tooling</tspan></text>
+<text x="390" y="150" fill="#24292f"><tspan fill="#953800">Focus.Cloud</tspan>: <tspan fill="#afb8c1">....................</tspan> <tspan fill="#0a3069">ML model deployment</tspan></text>
+<text x="390" y="190" fill="#24292f"><tspan fill="#953800">Languages.Programming</tspan>: <tspan fill="#afb8c1">...........</tspan> <tspan fill="#0a3069">TypeScript, Python</tspan></text>
+<text x="390" y="210" fill="#24292f"><tspan fill="#953800">Languages.Markup</tspan>: <tspan fill="#afb8c1">.............</tspan> <tspan fill="#0a3069">HTML, CSS, JSON, YAML</tspan></text>
+<text x="390" y="230" fill="#24292f"><tspan fill="#953800">Languages.Real</tspan>: <tspan fill="#afb8c1">.............................</tspan> <tspan fill="#0a3069">English</tspan></text>
+<text x="390" y="270" fill="#24292f"><tspan fill="#953800">Contact.GitHub</tspan>: <tspan fill="#afb8c1">..........................</tspan> <tspan fill="#0a3069">keplar-404</tspan></text>
 </svg>
